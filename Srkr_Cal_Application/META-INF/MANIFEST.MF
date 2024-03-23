@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.8.4
+Built-By: vsrkr
+Build-Jdk: 11.0.16
+version: 0.0.1-SNAPSHOT
+
